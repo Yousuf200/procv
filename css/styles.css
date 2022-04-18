@@ -60,6 +60,21 @@ h2
     float: right;
     margin-left: 10px;
 }
+
+.art
+{
+    width: 25%;
+    float: left;
+    margin-right: 10px;
+}
+
+.designmodel
+{
+    width: 25%;
+    float: right;
+    margin-left: 10px;
+}
+
 .top
 {
     background-color: aquamarine;
